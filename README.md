@@ -1,5 +1,7 @@
 # @bpmn-io/{{NAME}}
 
+[![Build Status](https://travis-ci.org/bpmn-io/{{NAME}}.svg?branch=master)](https://travis-ci.com/bpmn-io/{{NAME}})
+
 A boilerplate to quickly copy as a start for bpmn.io library extensions.
 
 ## Usage
